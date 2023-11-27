@@ -1,5 +1,7 @@
 <h2 align="left">Hi 👋! My name is Arthur and I'm a Software Engineer, from France</h2>
 
+<img align="right" height="150" src="https://i.imgur.com/FI0n6gB.gif"  />
+
 ###
 
 <div align="center">
@@ -9,7 +11,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgur.com/FI0n6gB.gif"  />
 
 ###
 
